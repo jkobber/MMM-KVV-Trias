@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZeroTwoWeeb/MMM-KVV-Trias.git"
+    "url": "git+https://github.com/jkobber/MMM-KVV-Trias.git"
   },
   "author": "kob",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZeroTwoWeeb/MMM-KVV-Trias/issues"
+    "url": "https://github.com/jkobber/MMM-KVV-Trias/issues"
   },
-  "homepage": "https://github.com/ZeroTwoWeeb/MMM-KVV-Trias#readme",
+  "homepage": "https://github.com/jkobber/MMM-KVV-Trias#readme",
   "devDependencies": {
     "@eslint/js": "^9.10.0",
     "@stylistic/eslint-plugin": "^2.7.2",
